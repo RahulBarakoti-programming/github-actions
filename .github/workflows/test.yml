@@ -1,6 +1,7 @@
 name: TDS GitHub Actions
 
 on:
+  push:
   workflow_dispatch:
 
 jobs:
